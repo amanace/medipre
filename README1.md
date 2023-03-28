@@ -1,12 +1,14 @@
+
+![WhatsApp Image 2023-03-28 at 9 48 05 AM](https://user-images.githubusercontent.com/71918236/228127854-6bb74c17-0939-40cb-a8ac-d9868d2d1e7e.jpeg)
+
+![WhatsApp Image 2023-03-28 at 9 47 44 AM](https://user-images.githubusercontent.com/71918236/228127939-654b95b4-ea7f-4a6c-bd5b-4b00a6d93eed.jpeg)
+
 PROBLEM STATEMENT
 
 Emergency medical situations require quick response and access to healthcare facilities. However, in many cases, patients and their families are unable to get an ambulance in a timely manner due to a lack of coordination between hospitals, ambulance services, and patients. This often leads to delays in receiving timely medical attention, which can result in further complications or even loss of life.
 
 The goal of our app is to provide a faster and more efficient way for patients to receive medical attention in emergency situations. It aims to improve the coordination between hospitals, ambulance services, and patients, ultimately resulting in better health outcomes and saving lives.
 
-![image](https://user-images.githubusercontent.com/71918236/228126572-499f6102-41ce-4ea2-b217-192eead644c4.png)
-
-![image](https://user-images.githubusercontent.com/71918236/228126609-612f8311-80fa-44f3-98fd-2f9765a540bd.png)
 
 ![1](https://user-images.githubusercontent.com/71918236/228126903-49bc2d70-1ac2-4a77-b835-7d054ad95314.jpg)
 ![2](https://user-images.githubusercontent.com/71918236/228126905-06c400f0-0f9d-47ae-b7ba-b0321421f68d.jpg)
